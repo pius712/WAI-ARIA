@@ -1,0 +1,12 @@
+﻿role,type,description
+banner,Landmark,"로고, 사이트 검색 툴 등 주로 사이트 상단에 위치한 요소"
+navigation,Landmark,문서를 탐색하기 위한 navigational 요소(ex. 링크)를 모아놓은 영역
+main,Landmark,메인 컨텐츠 영역
+complementary,Landmark,"e.g., a sidebar"
+contentinfo,Landmark,"meta data about the page, e.g., a copyright statement"
+search,Landmark,
+form,Landmark,html form 사용 권고
+application,Document structure,a web application with its own keyboard interface
+tab,Widget,
+dialog,Window,
+alert-dialog,Window,
